@@ -1,4 +1,5 @@
 *Funnel Analysis Project*
+(Sorry for taking really big dataset)
 An interactive funnel analysis project using Python and Jupyter Notebook to analyze customer journey stages from Browse → Purchase.
 *Features* 
 -> Funnel stage analysis
